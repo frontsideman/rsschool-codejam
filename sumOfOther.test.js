@@ -1,5 +1,5 @@
 const assert = require('assert');
-const sumOfOther = require('../sumOfOther');
+const sumOfOther = require('./sumOfOther');
 
 describe('sumOfOther', () => {
   const arr1 = [1, 2, 3];
